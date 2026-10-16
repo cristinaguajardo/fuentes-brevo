@@ -1,0 +1,35 @@
+
+@font-face {
+  font-family: 'Museo Sans';
+  src: url('https://cristinaguajardo.github.io/fuentes-brevo/MuseoSans-300.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Museo Sans';
+  src: url('https://cristinaguajardo.github.io/fuentes-brevo/museosans-500.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Museo Sans';
+  src: url('https://cristinaguajardo.github.io/fuentes-brevo/MuseoSans.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cabin';
+  src: url('https://cristinaguajardo.github.io/fuentes-brevo/Cabin-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cabin';
+  src: url('https://cristinaguajardo.github.io/fuentes-brevo/Cabin-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
